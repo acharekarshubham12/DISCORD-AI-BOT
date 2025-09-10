@@ -1,0 +1,3 @@
+# This file makes the config directory a Python package
+# It allows Python to recognize this folder as a module
+# so you can import from it using: from config.config import ...
